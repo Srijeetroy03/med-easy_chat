@@ -1,0 +1,32 @@
+.IntroPage{
+    display: flex;
+
+}
+
+.leftinfo{
+    margin-left: 3%;
+}
+
+.leftinfo h1{
+    font-weight: 900;
+    font-size: 300%;
+    width: 100%;
+    text-align: left;
+    line-height: 1.2;
+}
+
+.leftinfo p{
+    font-size: 70%;
+}
+
+.leftinfo button{
+    margin-left: -5%;
+}
+
+.arrow{
+    
+}
+
+.rightimg{
+    width: 64%;
+}
