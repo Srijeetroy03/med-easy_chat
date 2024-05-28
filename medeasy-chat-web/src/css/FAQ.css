@@ -26,6 +26,7 @@ h1{
 }
 
 .melly_button{
+    font-family: "Poppins", sans-serif;
     margin-top: 50px;
     display: flex;
     align-items: center;
